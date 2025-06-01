@@ -1,7 +1,3 @@
-以下是根据你项目实际内容优化后的 `README.md` 文本，结构清晰、用词简洁、专业度高，并用 Markdown 语法排版，适合作为开源项目首页说明文档：
-
----
-
 # 🎯 Sentiment Analysis of Bilibili Comments Based on Model Fine-Tuning
 
 本项目为青海民族大学本科毕业设计，旨在构建一个**基于情感分析的B站创作者画像系统**，通过**微调中文预训练模型（chinese-bert-wwm-ext）**，实现对用户评论的高精度情感分析，并辅助平台构建健康社区生态。
@@ -83,7 +79,3 @@ A: 当前版本支持二分类：积极(positive)/消极(negative)
 
 
 如项目对你有帮助，欢迎 Star 🌟 或留言交流！
-
----
-
-如你需要我帮你配套生成 HuggingFace 或 GitHub 上的项目描述模板、模型卡 (`README.md` for model card)，也可以继续告诉我。
